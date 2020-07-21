@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Soy un programador con experiencia en C#/.Net core. He trabajando con otros framework como lo son Laravel, Bootstrap y Angular. Tengo un título en TSU en Tecnologías de la Información y Comunicación, Área Sistemas Informáticos de la Universidad Tecnológica de Cancún y actualmente sigo con mis estudio en la carrera de Ingeniería en Tecnología de la Información y Comunicación. 
 <!--
 **jesuscent/jesuscent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
