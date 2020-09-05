@@ -1,4 +1,4 @@
-**Jesús Centeno**Soy un programador con experiencia en C#/.Net core. He trabajando con otros framework como lo son Laravel, Bootstrap y Angular.
+**Jesús Centeno**Soy un programador con experiencia en C#/.Net core. He trabajando con otros framework como lo son Laravel, Bootstrap.
 <!--
 **jesuscent/jesuscent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
