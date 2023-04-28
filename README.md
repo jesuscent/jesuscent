@@ -1,5 +1,5 @@
 **Jesús Centeno**
-Soy un programador con experiencia en C#/.Net core. He trabajando con otros framework como lo son Laravel, Bootstrap.
+Soy un programador con experiencia en C#/.Net core. He trabajando con otros framework como lo son ReactJS,Next js.
 Email: jesus.jgcc39@gmail.com
 <!--
 **jesuscent/jesuscent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
